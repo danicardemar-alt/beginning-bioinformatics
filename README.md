@@ -1,2 +1,3 @@
 # beginning-bioinformatics
-beginning bioinformatics course code
+Daniela Cardenas+ 1002053937 + BIOL5340-001
+
