@@ -17,7 +17,7 @@
         "id": "da036aa6"
       },
       "source": [
-        "# How does a model learn?\n",
+        "# How does a model learn?  Daniela Cardenas 1002053937\n",
         "## Loss, linear regression, gradient descent, and generalization\n",
         "\n",
         "Use simulated gene-expression data to predict a quantitative cellular response.\n",
